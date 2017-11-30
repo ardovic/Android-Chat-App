@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android Chat App</string>
+
+    <string name="fb_users_json">https://android-chat-app-405a3.firebaseio.com/users.json</string>
+    <string name="fb_messages">https://android-chat-app-405a3.firebaseio.com/messages/</string>
+    <string name="fb_users">"https://android-chat-app-405a3.firebaseio.com/users</string>
+</resources>
